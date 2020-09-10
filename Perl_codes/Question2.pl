@@ -1,3 +1,10 @@
+<<'#';
+Write a program that searches through all the subdirectories of the current directory for a
+sample phrase in text files. Use multiprocessing and assign each subdirectory to a different
+process.
+				-Siddhant Gupta(202011067)
+#
+
 #!/bin/perl
 use strict;
 use warnings;
