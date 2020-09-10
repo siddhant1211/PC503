@@ -29,7 +29,7 @@ while (($key, $value) = each %words_count) {
 	print "$key - $value\n";
 }
 
-close(FH);
+close($d);
   
   
   
